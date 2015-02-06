@@ -1,0 +1,25 @@
+{
+  "name": "trie",
+  "main": "trie.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mikedeboer/trie",
+  "authors": [
+    "Mike de Boer <info@mikedeboer.nl>"
+  ],
+  "description": "My take on an efficient implementation of a Trie in Javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "trie",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
